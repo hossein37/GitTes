@@ -13,6 +13,6 @@ public class MainActivity extends AppCompatActivity {
     super.onCreate(savedInstanceState);
 
     //
-
+    Log.i(TAG, "onCreate: "+ "salam");
   }
 }
