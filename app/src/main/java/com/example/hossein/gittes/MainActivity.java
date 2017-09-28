@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
     setContentView(R.layout.activity_main);
 
     Log.i(TAG, "onCreate: ");
+    Log.i(TAG, "onCreate: ");
     TextView textView = (TextView) findViewById(R.id.txt_test);
     //
   }
